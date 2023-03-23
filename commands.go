@@ -10,8 +10,9 @@ import (
 	"bytes"
 	"encoding/binary"
 	"fmt"
-	"github.com/basvdlei/gotsmart/crc16"
 	"unsafe"
+
+	"github.com/basvdlei/gotsmart/crc16"
 )
 
 const (
