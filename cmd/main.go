@@ -45,7 +45,3 @@ func main() {
 		}
 	}
 }
-
-func Decode(byte *[]byte) {
-	panic("unimplemented")
-}
